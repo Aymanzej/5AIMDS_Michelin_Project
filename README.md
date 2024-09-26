@@ -13,3 +13,18 @@ Welcome to your capstone project for the Advanced Machine Learning course. This 
 (Bonus) Feature Importance
 
 
+## Assessment Criteria:
+
+Understanding and Application (40%):
+-  Demonstrated understanding of machine learning concepts.
+-  Appropriate application of methods and algorithms.
+
+Technical Execution (30%):
+-  Quality and efficiency of code.
+-  Correct implementation of algorithms.
+-  Analysis and Interpretation (20%):
+-  Depth of analysis.
+
+Communication (10%):
+- Clarity of the report and presentation.
+- Proper documentation and referencing.
