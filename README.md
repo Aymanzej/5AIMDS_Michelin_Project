@@ -9,14 +9,25 @@ Welcome to your capstone project for the Advanced Machine Learning course. This 
 
 
 ## Table of Contents : 
-[Trajectory Clustering for Dumpers](#P1)
--  [Objectives](#obj1)
--  [Data Description](#desc1)
+### Trajectory Clustering for Dumpers
+-  [Objectives](#obj)
+-  [Data Description](#desc)
 -  [Deliverables](#devrilables)
 -  [Tools and Resources](#tools)
   
 
-
 [General Guidelines]
 [Assessment Criteria]
+
+
+
+### 1. Objectives : 
+The primary objective of this project is to apply the concepts and techniques you've learned in the Advanced Machine Learning courses to real-world data, and this involves : 
+  - **Data Cleaning and Preprocessing** ( Understand the structure of raw telematics data. Handle missing or noisy data and format the dataset for further analysis. This may involve techniques such as interpolation, outlier detection, and scaling.
+Split the data into meaningful segments based on vehicle trajectories. )
+  - **Exploratory Data Analysis (EDA)** Perform a comprehensive analysis of the dataset to uncover underlying patterns or characteristics (e.g., common trajectories, driving behaviors). Visualize data distributions and relationships, such as speed vs. time, acceleration profiles, or geographical movements.
+  - **Distance Metrics for Trajectories** Learn and apply suitable distance measures for trajectories. These may include Euclidean distance, Dynamic Time Warping (DTW), or Fréchet distance. Experiment with different metrics to find the most suitable one for clustering vehicle trajectories.
+  - **Trajectory Construction** ( Based on the preprocessed data, construct trajectories that reflect the vehicle's movement over time. Define how you will represent a trajectory (e.g., as a series of time-stamped GPS coordinates or motion states).
+  - **Clustering Models Implementation** Apply different clustering algorithms (e.g., K-means, DBSCAN, Hierarchical Clustering ... ) to group similar trajectories. Compare how each clustering algorithm performs in terms of separating meaningful patterns in the data.
+  - **Cluster Analysis and Comparison** Analyze and interpret the clustering results. Are the clusters meaningful? How do they reflect different types of driving behaviors or vehicle usage patterns? Compare clustering results using performance metrics such as silhouette score, Davies-Bouldin index, or visual inspection.
 
