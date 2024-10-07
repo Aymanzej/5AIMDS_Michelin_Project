@@ -9,15 +9,15 @@ Welcome to your capstone project for the Advanced Machine Learning course. This 
 
 
 ## Table of Contents : 
-### Trajectory Clustering for Dumpers
+### [Trajectory Clustering for Dumpers]()
 -  [Objectives](#obj)
 -  [Data Description](#desc)
 -  [Deliverables](#devrilables)
 -  [Tools and Resources](#tools)
   
 
-[General Guidelines]
-[Assessment Criteria]
+### [General Guidelines]()
+### [Assessment Criteria]()
 
 
 
@@ -31,3 +31,18 @@ Split the data into meaningful segments based on vehicle trajectories. )
   - **Clustering Models Implementation** Apply different clustering algorithms (e.g., K-means, DBSCAN, Hierarchical Clustering ... ) to group similar trajectories. Compare how each clustering algorithm performs in terms of separating meaningful patterns in the data.
   - **Cluster Analysis and Comparison** Analyze and interpret the clustering results. Are the clusters meaningful? How do they reflect different types of driving behaviors or vehicle usage patterns? Compare clustering results using performance metrics such as silhouette score, Davies-Bouldin index, or visual inspection.
 
+
+### 2. Data Description
+The dataset you'll be working with consists of telematics data stored in a Parquet file. This dataset is collected from sensors and represents a multivariate time series, capturing various parameters that describe the vehicle's movement and driving behavior over time
+
+### 3. Deliverables
+- *Jupyter Notebook*:
+
+A comprehensive notebook that includes all data preprocessing steps, exploratory data analysis (EDA), trajectory construction, distance metrics, clustering models, and result interpretation.
+The notebook should be well-documented with explanations, code comments, and visualizations to clearly present your analysis.
+
+- *Presentation*:
+
+A concise presentation summarizing your approach, key findings, and insights derived from the data.
+The presentation should highlight the main challenges faced, the solutions implemented, and the interpretation of the clustering results.
+Use visuals and charts to effectively communicate your results and conclusions.
