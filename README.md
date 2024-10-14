@@ -68,3 +68,6 @@ folium Documentation: python-visualization.github.io/folium
 - Geospatial Analysis and Mapping 
     - geopandas [geopandas.org](geopandas.org)
     - folium [geopandas.org](geopandas.org)
+ 
+- Distances : https://rtavenar.github.io/blog/dtw.html
+
