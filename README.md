@@ -33,7 +33,7 @@ Split the data into meaningful segments based on vehicle trajectories. )
 
 
 ### 2. Data Description
-The dataset you'll be working with consists of telematics data stored in a Parquet file. This dataset is collected from sensors and represents a multivariate time series, capturing various parameters that describe the vehicle's movement and driving behavior over time
+The dataset you'll be working with consists of telematics data stored in a Parquet file [Here](dataDumper.parquet). This dataset is collected from sensors and represents a multivariate time series, capturing various parameters that describe the vehicle's movement and driving behavior over time
 
 ### 3. Deliverables
 - *Jupyter Notebook*:
@@ -46,3 +46,25 @@ The notebook should be well-documented with explanations, code comments, and vis
 A concise presentation summarizing your approach, key findings, and insights derived from the data.
 The presentation should highlight the main challenges faced, the solutions implemented, and the interpretation of the clustering results.
 Use visuals and charts to effectively communicate your results and conclusions.
+
+pandas Documentation: pandas.pydata.org/docs
+NumPy Documentation: numpy.org/doc
+matplotlib Documentation: matplotlib.org/stable/contents.html
+seaborn Documentation: seaborn.pydata.org
+scikit-learn Documentation: scikit-learn.org/stable
+tslearn Documentation: tslearn.readthedocs.io
+geopandas Documentation: geopandas.org
+folium Documentation: python-visualization.github.io/folium
+### 4. Tools and Resources
+- Data Manipulation and Analysis :
+    - pandas [pandas.pydata.org/docs](pandas.pydata.org/docs)
+    - NumPy [numpy.org/doc](numpy.org/doc) 
+- Data Visualization
+    - matplotlib [matplotlib.org/stable/contents.html](matplotlib.org/stable/contents.html)
+    - seaborn [seaborn.pydata.org](seaborn.pydata.org)
+- Machine Learning and Time Series Analysis
+    - scikit-learn [scikit-learn.org/stable](scikit-learn.org/stable)
+    - tslearn [tslearn.readthedocs.io](tslearn.readthedocs.io)
+- Geospatial Analysis and Mapping 
+    - geopandas [geopandas.org](geopandas.org)
+    - folium [geopandas.org](geopandas.org)
